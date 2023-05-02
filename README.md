@@ -38,7 +38,11 @@ Os softwares utilizados neste projeto foram:
 
 ## Informações do Projeto:
 
+### 1 - Tabela das 10 primeiras linhas do DataSet estudado
 
+<img src="https://user-images.githubusercontent.com/119675645/235696260-0fd8d0b4-29bb-43a1-b29e-2117b08b4369.jpg" >
+
+### 2 - Porcentagem de corridas com e sem chuva
 
 
 
