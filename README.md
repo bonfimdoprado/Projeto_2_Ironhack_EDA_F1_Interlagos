@@ -47,6 +47,11 @@ Os softwares utilizados neste projeto foram:
 
 # <h1 align="center"> <img src="https://user-images.githubusercontent.com/119675645/235697653-3ebae937-8e29-4d57-9c9c-285aa548d4ae.jpg" > </h1>
 
-### 3 - 
+### 3 - Comparando os melhores pilotos na chuva
+
+* Barplot esquerdo: É possível analisar no eixo X o número de corridas na chuva, vitórias na chuva e vitórias totais (com ou sem chuva).
+* Barplot direito: É possível analisar no eixo X o número de corridas na chuva, vitórias na chuva e p número de podiums na chuva.
+
+# <h1 align="center"> <img src="https://user-images.githubusercontent.com/119675645/235698791-a65394db-f601-4b93-8787-8ec9a694207c.jpg" > </h1>
 
 
