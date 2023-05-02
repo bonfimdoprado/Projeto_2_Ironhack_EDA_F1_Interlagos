@@ -44,8 +44,6 @@ Os softwares utilizados neste projeto foram:
 
 ### 2 - Porcentagem de corridas com e sem chuva
 
-
-
-
+# <h1 align="center"> <img src="https://user-images.githubusercontent.com/119675645/235696984-3db1d4d5-d6b3-4fa9-86d9-53f82ec9ba31.jpg" > </h1>
 
 
