@@ -54,4 +54,6 @@ Neste gráfico é possível analisar a diferença do tempo (minutos) final de ca
 
 ### 6 - Países com mais vitórias na chuva
 
+# <h1 align="center"> <img src="https://user-images.githubusercontent.com/119675645/235740488-818485bc-0482-4c51-aa7d-0793dbf13f58.jpg" > </h1>
+
 
