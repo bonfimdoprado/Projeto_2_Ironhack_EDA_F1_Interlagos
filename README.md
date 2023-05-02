@@ -54,4 +54,11 @@ Os softwares utilizados neste projeto foram:
 
 # <h1 align="center"> <img src="https://user-images.githubusercontent.com/119675645/235698791-a65394db-f601-4b93-8787-8ec9a694207c.jpg" > </h1>
 
+### 3 - Tempo final 1º colocado por ano
+Neste gráfico é possível analisar a diferença do tempo (minutos) final de cada corrida por ano.
+
+# <h1 align="center"> <img src="https://user-images.githubusercontent.com/119675645/235735588-614ced55-0dcd-4729-bb12-ca9f67253ea8.jpg" > </h1>
+
+
+
 
